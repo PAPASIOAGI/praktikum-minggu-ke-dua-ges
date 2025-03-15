@@ -1,0 +1,16 @@
+body {
+    background-image: url("77222-gta-6-gta-vi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h2 {
+    color: #007bff;
+}
+
+#message {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
