@@ -1,0 +1,13 @@
+body {
+    background-image: url("3325397712.png");
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: center;
+    background-attachment: fixed;
+}
+.carousel {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
